@@ -23,7 +23,7 @@ For full results, model derivations, and benchmarking details, see the [**projec
 ├── training_demo.ipynb         # Jupyter notebook: training loop & model selection
 ├── models.py                   # MicrobMultiNet and HybridODE model 
 └── data/                       # Synthetic dataset
-
+```
 ---
 
 ## Models
