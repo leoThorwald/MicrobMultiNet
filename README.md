@@ -80,16 +80,11 @@ conda activate microbmultinet
 
 ### 2. Run the training demo
 
-Open the Jupyter notebook for an interactive training loop where you can select and configure either model:
-
-```bash
-jupyter notebook training_demo.ipynb
-```
+Open training_demo.ipynb to configure and run the training loop. 
 
 The notebook lets you:
 - Choose between **MicrobMultiNet** and **HybridODE**
 - Configure HybridODE modules (toggle Part 1 / 2 / 3)
-- Train on synthetic Lotka–Volterra data or your own time series
 - Visualize predicted trajectories and extracted interaction matrices
 
 ---
