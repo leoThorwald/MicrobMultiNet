@@ -21,11 +21,8 @@ For full results, model derivations, and benchmarking details, see the [**projec
 ├── report.pdf                  # Full lab immersion report
 ├── environment.yml             # Conda environment file
 ├── training_demo.ipynb         # Jupyter notebook: training loop & model selection
-├── microbmultinet/
-│   └── ...                     # MicrobMultiNet model (main contribution)
-└── hybridode/
-    └── ...                     # HybridODE model with modular components
-```
+├── models.py                   # MicrobMultiNet and HybridODE model 
+└── data/                       # Synthetic dataset
 
 ---
 
